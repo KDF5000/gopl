@@ -37,8 +37,8 @@ Go语言圣经 [《The Go Programming Language》](http://www.gopl.io) 中文版
    * Note: Golang第十章:包和工具
    * Code: ch10
 12. 测试
-   * Note: Golang第十一章:测试
-   * Code: ch11
+   * Note: [Golang第十一章:测试](http://kdf5000.com/2017/03/28/Golang第十一章-测试/)
+   * Code: [ch11](src/ch11)
 13. 反射
    * Note: Golang第十二章:反射
    * Code: ch12
