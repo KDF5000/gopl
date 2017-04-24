@@ -25,8 +25,8 @@ Go语言圣经 [《The Go Programming Language》](http://www.gopl.io) 中文版
    * Note: [Golang第六章:方法](http://kdf5000.com/2017/03/15/Golang第六章-方法/)
    * Code: [ch6](src/ch6)
 8. 接口
-   * Note: Golang第七章:接口
-   * Code: ch7
+   * Note: [Golang第七章:接口](http://kdf5000.com/2017/04/24/Golang第七章-接口/)
+   * Code: [ch7](src/ch7)
 9. Goroutines和Channels
    * Note: Golang第八章:Goroutines和Channels
    * Code: ch8
